@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+😄 My Name Muhammad Yudha Prastya
+🌱 I’m currently learning GOLANG
+🔭 I’m currently working on My Portfolio Website
+
 <!--
 **myudhap/myudhap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
