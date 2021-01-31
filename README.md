@@ -1,7 +1,9 @@
+<div style="text-align:center">
 ### Hi there 👋
 
 ![](github_welcome.gif)
 
+</div>
 😄 My Name Muhammad Yudha Prastya  
 🌱 I’m currently learning GOLANG  
 
