@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](welcome.gif)
+![](github_welcome.gif)
 
 😄 My Name Muhammad Yudha Prastya  
 🌱 I’m currently learning GOLANG  
