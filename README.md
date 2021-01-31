@@ -1,12 +1,12 @@
 <div align="center">
-  <b>Hi there</b>
 ### Hi there 👋
 
 ![](github_welcome.gif)
 
-</div>
-😄 My Name Muhammad Yudha Prastya  
+😄 My Name Muhammad Yudha Prastya 
+<br/>
 🌱 I’m currently learning GOLANG  
+</div>
 
 <!--
 **myudhap/myudhap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
