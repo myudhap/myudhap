@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there 👋
+  <b>Hi there</b> 👋
 
 ![](github_welcome.gif)
 
